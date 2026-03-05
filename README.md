@@ -1,5 +1,5 @@
 ```markdown
-# Vibecoding Carousel MVP
+Carousel MVP
 ```
 
 Backend: **Python + FastAPI + Postgres + MinIO**  
